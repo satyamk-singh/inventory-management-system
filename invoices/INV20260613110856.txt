@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260613110856
+Date         : 2026-06-13 11:08:56
+
+Product ID   : 600
+Product Name : Jeans
+Category     : Cloths
+Unit Price   : Rs. 1599.00
+Quantity     : 12
+
+------------------------------
+Base Amount  : Rs. 19188.00
+GST 18%      : Rs. 3453.84
+Total Amount : Rs. 22641.84
+------------------------------
+
+Thank you for shopping!
+==============================

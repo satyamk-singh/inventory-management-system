@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260611233500
+Date         : 2026-06-11 23:35:00
+
+Product ID   : N002
+Product Name : Notebook
+Category     : Stationary
+Unit Price   : Rs. 40.00
+Quantity     : 4
+
+------------------------------
+Base Amount  : Rs. 160.00
+GST 18%      : Rs. 28.80
+Total Amount : Rs. 188.80
+------------------------------
+
+Thank you for shopping!
+==============================

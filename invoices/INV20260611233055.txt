@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260611233055
+Date         : 2026-06-11 23:30:55
+
+Product ID   : P001
+Product Name : Pen
+Category     : Stationery
+Unit Price   : Rs. 10.00
+Quantity     : 7
+
+------------------------------
+Base Amount  : Rs. 70.00
+GST 18%      : Rs. 12.60
+Total Amount : Rs. 82.60
+------------------------------
+
+Thank you for shopping!
+==============================

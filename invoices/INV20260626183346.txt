@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260626183346
+Date         : 2026-06-26 18:33:46
+
+Product ID   : MOB1111
+Product Name : Mobile
+Category     : Electronic
+Unit Price   : Rs. 22000.00
+Quantity     : 12
+
+------------------------------
+Base Amount  : Rs. 264000.00
+GST 18%      : Rs. 47520.00
+Total Amount : Rs. 311520.00
+------------------------------
+
+Thank you for shopping!
+==============================

@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260626183124
+Date         : 2026-06-26 18:31:24
+
+Product ID   : LAP001
+Product Name : Laptop
+Category     : EElectronic
+Unit Price   : Rs. 65000.00
+Quantity     : 6
+
+------------------------------
+Base Amount  : Rs. 390000.00
+GST 18%      : Rs. 70200.00
+Total Amount : Rs. 460200.00
+------------------------------
+
+Thank you for shopping!
+==============================

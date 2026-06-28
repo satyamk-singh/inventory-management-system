@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260612103922
+Date         : 2026-06-12 10:39:22
+
+Product ID   : 900
+Product Name : Tshirt
+Category     : Cloths
+Unit Price   : Rs. 599.00
+Quantity     : 10
+
+------------------------------
+Base Amount  : Rs. 5990.00
+GST 18%      : Rs. 1078.20
+Total Amount : Rs. 7068.20
+------------------------------
+
+Thank you for shopping!
+==============================

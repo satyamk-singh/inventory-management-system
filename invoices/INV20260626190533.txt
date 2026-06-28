@@ -1,0 +1,21 @@
+
+==============================
+        SALES INVOICE
+==============================
+Invoice ID   : INV20260626190533
+Date         : 2026-06-26 19:05:33
+
+Product ID   : CAM001
+Product Name : Camera
+Category     : Electronic
+Unit Price   : Rs. 65000.00
+Quantity     : 8
+
+------------------------------
+Base Amount  : Rs. 520000.00
+GST 18%      : Rs. 93600.00
+Total Amount : Rs. 613600.00
+------------------------------
+
+Thank you for shopping!
+==============================
